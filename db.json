@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "adm",
+      "email": "adm",
+      "password": "adm",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Dominos",
+      "address": "Gurgaon Sector 28",
+      "contact": "5890234",
+      "id": 2
+    },
+    {
+      "name": "KFC",
+      "address": "Delhi CP126",
+      "contact": 583494,
+      "id": 3
+    },
+    {
+      "name": "Magneto",
+      "contact": "583434",
+      "address": "Pandri",
+      "id": 4
+    },
+    {
+      "name": "Starbucks",
+      "contact": "583035",
+      "address": "Delhi Saket",
+      "id": 5
+    },
+    {
+      "name": "jfowieujg",
+      "contact": "4823908",
+      "address": "jfowiefjio",
+      "id": 6
+    },
+    {
+      "name": "fpitii3p",
+      "contact": "948304",
+      "address": "fijweoi",
+      "id": 7
+    },
+    {
+      "name": "jt2ptj23t`",
+      "contact": "589230",
+      "address": "fjiwtj",
+      "id": 8
+    },
+    {
+      "name": "nvodisjviedjvenviwei",
+      "contact": "54350934",
+      "address": "nvodisjviedjvenviwei",
+      "id": 9
+    },
+    {
+      "name": "nvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviwei",
+      "contact": "53049583",
+      "address": "nvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviweinvodisjviedjvenviwei",
+      "id": 10
+    }
+  ]
+}
